@@ -9,5 +9,8 @@
             "email": "morphizm@ya.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
 }
